@@ -5,11 +5,11 @@
         "nixpkgs": "nixpkgs"
       },
       "locked": {
-        "lastModified": 1734050415,
-        "narHash": "sha256-dBMYMKd2hbPt7ryZPSST+lPDf3kFfUG0N3CyCDfRxf8=",
+        "lastModified": 1734069804,
+        "narHash": "sha256-Lb+G13J3bRr7lUXxGRteLbA1pI0g4iJKL50+oFdh6QA=",
         "owner": "arcturusnavigation",
         "repo": "atlantic",
-        "rev": "c5bda59758701e5dd928939d39ad39f4cdd86c5d",
+        "rev": "e0a0d31be330ffd0b35923ca2e06253dceb8fba2",
         "type": "github"
       },
       "original": {
@@ -287,11 +287,11 @@
         "nixpkgs-upstream": "nixpkgs-upstream"
       },
       "locked": {
-        "lastModified": 1734061542,
-        "narHash": "sha256-8gWGFGJ8QlK98oCuFstwUdY1p44Gf9tO8h72JKKkZCA=",
+        "lastModified": 1734069770,
+        "narHash": "sha256-I2PR6axWK7O1Qu5OZmP4zCBhw76bonrkC2GrADy3I9Q=",
         "owner": "quantum9innovation",
         "repo": "pulsaros",
-        "rev": "22e3b634f25fa53ab504c204e9b035631fa2a8f7",
+        "rev": "7ff495ba2b93ff16332bfd92f00ef9058be9b049",
         "type": "github"
       },
       "original": {
